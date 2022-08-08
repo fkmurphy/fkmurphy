@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+⚡ I'm currently working on Trocafone
+
+🔭 I'm learning -> Blockchain
+
+[More...](julianmurphy.ar)
+
 <!--
 **fkmurphy/fkmurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkmurphy&layout=compact&theme=highcontrast&title_color=blue&cache_seconds=5600)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkmurphy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkmurphy&layout=compact&theme=highcontrast&title_color=blue&cache_seconds=5600)
+
 -->
