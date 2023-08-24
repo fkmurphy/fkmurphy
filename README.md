@@ -28,3 +28,4 @@
 
 
 [Visit my site...](https://julianmurphy.ar)
+[Build -> Everything I know](https://wiki.julianmurphy.ar)
